@@ -7,4 +7,3 @@
 
 ```bash
 sudo fallocate -l 16G /swapfile
-sudo chmod 600 /swapfile
